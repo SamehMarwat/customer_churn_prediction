@@ -13,13 +13,12 @@ Predict telecom customer churn and explain which customer groups need retention 
 
 ## Contents
 
-- `data/sample/telecom_customers.csv`: Sample customer data.
-- `sql/schema.sql`: Table definition.
-- `sql/analysis_queries.sql`: KPI, segmentation, and retention queries.
-- `src/train_model.py`: Python classification model.
-- `dashboards/powerbi_dashboard_guide.md`: Power BI page layout.
-- `dashboards/dax_measures.txt`: Suggested DAX measures.
-- `docs/customer_churn_report.docx`: Word report.
+- `data sample telecom_customers.csv`: Sample customer data.
+- `sql schema.sql`: Table definition.
+- `sql analysis_queries.sql`: KPI, segmentation, and retention queries.
+- `train_model.py`: Python classification model.
+- `dashboards powerbi_dashboard_guide.md`: Power BI page layout.
+- `dashboards dax_measures.txt`: Suggested DAX measures.
 
 ## Model
 
